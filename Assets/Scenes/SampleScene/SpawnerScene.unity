@@ -152,8 +152,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7fa10fd1233c4bc78c54a73c2d0df46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 257298736206230364, guid: c54239e23b446475898dfb95d5a04528, type: 3}
-  spawnAmount: 10000
+  prefab: {fileID: 3684965418754927697, guid: 246c242d331a08d4695fdd75eb3e8f93, type: 3}
+  spawnAmount: 1000
   spawnPosition:
     x: 0
     y: 0
